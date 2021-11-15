@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crepper710
 - 👀 I’m interested in Programming, Videogames
-- 🌱 I’m currently learning Some stuff e.g. C#
+- 🌱 I’m currently learning Some stuff e.g. C# or Kotlin
 - 💞️ I’m looking to collaborate on cool stuff, so when you want to do something reach out to me
 - 📫 How to reach me on my [Webpage](https://crepper710.github.io/)
 
